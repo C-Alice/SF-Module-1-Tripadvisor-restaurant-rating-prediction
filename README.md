@@ -24,5 +24,5 @@ One more trick for this particular case, connected with the target, was that the
 
 ## For more details
 
-- First, check the corresponding notebook: 
+- First, check the corresponding notebook: https://github.com/C-Alice/SF-Module-1-Tripadvisor-restaurant-rating-prediction/blob/master/Predict%20Tripadvisor%20restaurant%20rating%20.ipynb
 - You can also take a look at the Kaggle competition here: https://www.kaggle.com/c/kaggle-sf-dst-through-1/overview
