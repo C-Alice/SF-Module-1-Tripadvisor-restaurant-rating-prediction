@@ -14,7 +14,7 @@ Initially data contained the following features:
 * ```Price Range``` - range of prices in a restaurant;
 * ```Number of Reviews``` - number of reviews for each restaurant;
 * ```Reviews``` - last two reviews and their dates;
-* ```URL_TA``` - page of a restaurant on 'www.tripadvisor.com';
+* ```URL_TA``` - page of a restaurant on 'www.tripadvisor.ru';
 * ```ID_TA``` - restaurant ID on Tripadvisor;
 * ```Rating``` - restaurant rating (target).
 
